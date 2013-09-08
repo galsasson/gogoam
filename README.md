@@ -1,0 +1,4 @@
+gogoam
+======
+
+Generative music sequencer
