@@ -1,4 +1,4 @@
 gogoam
 ======
 
-Generative music sequencer
+Generative music sequencer for Processing
